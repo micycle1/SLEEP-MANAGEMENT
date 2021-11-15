@@ -4,7 +4,6 @@ author: "Paul Naitoh, Tamsin Lisa Kelly"
 date: "1992-07-01"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: "The objective of sleep logistics is to ensure that fighting men and women at all levels obtain sufficient sleep to maintain combat effectiveness. Special warfare missions frequently involve night work and arduous operational schedules. This Users Guide explains selected sleep management techniques for use during military operations, with particular emphasis on special operations mission. The Guide will assist field commanders in using sleep logistics to prevent compromise of mission accomplishment due to sleep deprivation. In addition, it provides techniques for assessing severity of sleep debt and compensating for its ill effects... Sleep management, Sleep logistics, Sleep loss."

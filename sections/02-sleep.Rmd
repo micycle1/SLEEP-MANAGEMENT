@@ -1,0 +1,25 @@
+# SLEEP AND SLEEP DEPRIVATION
+
+This section describes the normal sleep/wake cycle of human beings and reviews
+the effects of various disruptions to this cycle.
+
+## Circadian Rhythms
+
+Humans evolved as diurnal creatures. That is, people are designed to be
+active during the day &nd to sleep for a continuous seven- to eight-hour period
+each nint. Every aspect of each individual (physical and mental performance,
+mood, body temperature, blood pressure, pulse, etc.) shows a characteristic
+variation over a 24-hour cycle. These 24-hour variations are called "circadian
+rhythms."
+
+Generally, a person will work most effectively in the afternoon and evening
+(1400 to 2000), although memory processes may peak somewhat earlier; this is
+called the "circadian peak." The time of least effective work is in the early
+morning hours (0200 to 0600), or the "circadian trough." Figure 1 represents
+speed and performance accuracy for a mental task over two days and nights without
+sleep. The subjects were Basic Underwater Demolition/Sea, Air, Land (BUD/SEAL)
+students who had successfully completed Phase 1 training. The physical
+characteristics of this population closely resemble those of SEALs (Beckett et
+al., 1989). For accuracy (percent correct), higher numbers represent better
+performance. Speed (reaction time) is presented as the inverse (1/sec), so that
+higher numbers represent better performance for this measure as well.
