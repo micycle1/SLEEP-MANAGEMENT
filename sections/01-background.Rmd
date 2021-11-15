@@ -1,0 +1,15 @@
+# BACKGROUND AND PURPOSE
+
+## Background and Problems
+
+Sleep management for military personnel (sleep logistics) was developed roughly 30 years ago by Lieutenant Colonel Harold Williams of the Walter Reed Army Institute of Research. Sleep logistics, which includes work/rest-sleep planning, is of serious concern when personnel must work without sleep for more than 24 hours under conditions of decreased or disrupted sleep, particularly at night. 
+
+All levels of military personnel may be subjected to such stressful work schedules: those on the front line, those involved in resupplying the front line, and those participating in special missions. Historically, major battles were often limited to daylight hours because of poor night visibility and unreliable equipment. With improved technology, these problems have decreased; as a result, personnel may be required to fight both day and night.
+
+Behavioral problems associated with sleep loss during military operations are well documented. George E. Marshall's observation during the Normandy Operation in World War II accurately describes these problems: disorientation, overwhelming sleepiness, and inability to give and receive orders due to uncontrollable lapses in attention and poor memory. Sleep logistics has been proposed as a means of preventing these problems by way of work/rest-sleep planning
+
+## Purpose
+
+The purpose of this user's guide is to provide basic information for field commanders about the need for sleep and consequences to behavior and mood when that need goes unsatisfied. The user's guide outlines the best available techniques for preventing excessive sleep loss, determining the severity of sleep debt, and countering the ill effects of sleep loss so that military objectives can be achieved. This user's guide is based upon two decades of sleep research conducted by the *Naval Health Research Center* (NAVHLTHRSCHCEN), San Diego, California.
+
+

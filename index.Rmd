@@ -1,0 +1,17 @@
+--- 
+title: "Sleep Management User's Guide for Special Operations Personnel"
+author: "Paul Naitoh, Tamsin Lisa Kelly"
+date: "1992-07-01"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: "The objective of sleep logistics is to ensure that fighting men and women at all levels obtain sufficient sleep to maintain combat effectiveness. Special warfare missions frequently involve night work and arduous operational schedules. This Users Guide explains selected sleep management techniques for use during military operations, with particular emphasis on special operations mission. The Guide will assist field commanders in using sleep logistics to prevent compromise of mission accomplishment due to sleep deprivation. In addition, it provides techniques for assessing severity of sleep debt and compensating for its ill effects... Sleep management, Sleep logistics, Sleep loss."
+link-citations: yes
+github-repo: micycle1/SLEEP-MANAGEMENT
+---
+
+# Summary {.unnumbered}
+
+Sleep management is the study of sleep, its effects on personnel, and methods to satisfy sleep requirements under demanding work schedules. Sleep logistics is the application of sleep management to military operations. The objective of sleep logistics is to ensure that fighting men and women at all levels obtain sufficient sleep to maintain combat effectiveness. In the past, major battles usually occurred during the day due to the limitations of night visibility and unreliable equipment (which inhibit target detection and classification capabilities). Technological advances diminish these obstacles, such that combat can occur both day and night. Sleep loss can result, making sleep logistics an important issue. Special warfare missions frequently involve night work and arduous or irational schedules. This user’s guide explains selected sleep management techniques for use during military operations, with particular emphasis on special operations missions. The guide will assist field commanders in using sleep logistics to prevent compromise of mission accomplishment due to sleep deprivation. It also provides basic information about the need for sleep and consequences to behavior and mood when that need goes unsatisfied. Additionally, the guide provides techniques for assessing severity of sleep debt and compensating for its ill effects. The most important steps to be taken for effective sleep management are to: a) prepare a work/rest-sleep plan to meet sleep needs; and b) employ self-diagnostic techniques to detect and compensate for the effects of sleep debt. Key facts and recommendations for sleep management are listed, along with countermeasures to the effects of sleep loss.

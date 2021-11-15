@@ -1,0 +1,44 @@
+# SLEEP MANAGERS' QUICK REFERENCE -- KEY FACTS AND RECOMMENDATIONS {.unnumbered}
+
+* Degrading effects of sleep loss on performance, moods, and motivation to work are felt most strongly during the daily circadian trough, as defined by body temperature. The circadian trough occurs between 0200 and 0600 of the time zone to which the body is adapted.
+* There is a significant loss of performance efficiency when an operation demands a longer-than-24-hour continuous work episode (CWE). After a CWE of 36 hours, target detection is 70% and decoding is 50% of baseline.
+* Uninteresting and complex tasks are more seriously affected by sleep loss than interesting and/or simple tasks.
+* Critical but routine tasks are often skipped, since sleep loss reduces overall willingness to respond.
+* Physical work feels much heavier with sleep loss because of exaggerated perceptions of physical exertion.
+* Short-term memory is seriously affected. Poor short-term memory and lapses in attention work against effective communication. Sleep loss can cause a listener to forget what was recently said in a conversation. A listener may fill the information gap by inaccurately restructuring the conversation.
+* The ability to initiate action decreases with increasing sleep debt. This decrease in initiative includes all interactions among team members.
+* Sleep-deprived individuals tend to overestimate their ability to perform tasks. They lose insight as to how well they are performing their assigned tasks.
+* Sleep loss causes deterioration of personal hygiene.
+Often, higher ranking personnel are more likely to go without sleep because they feel their duties are the most critical and cannot be fulfilled by others. Paradoxically, this sense of duty can result in performance impairment, compromising the very goals they sought to achieve by denying themselves sleep.
+* Sleep loss can be measured by the use of sleep logs to quantitate the amount and timing of sleep and by the use of a mood scale and the plus 7 task to quantitate the impact of sleep loss.
+* Uninterrupted sleep is more restorative. Avoid interruptions (e.g., employ bladder prior to attempting to sleep).
+* Optimize your circadian rhythms by following a regular schedule every day.
+* Sleep can be improved by: following a regular night-time routine, avoiding caffeine tor several hours before bed, avoiding excessive alcohol, avoiding tobacco, not becoming dependent on sleeping medications, using muscle relaxation techniques, developing a positive attitude about sleep and doing your worrying somewhere other than bed.
+
+Suggestions to limit sleep deprivation during an operation are listed below:
+
+* Resting is not sleeping. It is the amount of actual sleep that counts.
+* Partial sleep deprivation over multiple days has a cumulative effect. 
+* We may be able to store up a little extra sleep taken ahead of time. Certainly, do not begin a prolonged operation already sleep-deprived. However, sleep periods of over 10 hours should be avoided.
+* Taking naps can interfere with night-time sleep. However, naps are beneficial when insufficient sleep is otherwise not available.
+* Physical signs of serious sleep loss are: vacant stare, "glazed" eyes; pale skin; body sways upon standing, sudden dropping of chin upon sitting; intermittent loss of hand grip strength; walking into obstacles and ditches; poor personal hygiene; very slow heart rate; loss of interest in surroundings; slurred speech.
+* Train to be an effective sleeper and learn techniques to help induce sleep under unusual and stressful conditions. 
+* Get as much sleep as possible before an operation. Avoid incurring a sleep debt before the start of an operation when sleep may be limited.
+* Try to sleep at least four to five hours in a single, unbroken period each 24 hours. This amount of sleep should be adequate to maintain maximum performance for a month or longer.
+* During military operations where sleep is limited, use every opportunity to take naps (preferably greater than 20 minutes). Napping is usually beneficial in maintaining task performance. However, be aware that awakening from naps may be accompanied by sleep inertia. Allow enough time (five to ten minutes) to overcome this before beginning activities.
+* Use diagnostic aids, such as a sleep/activity diary, a mood scale, and the Plus / Task, to obtain a realistic measure of sleep debt severity.
+
+If sleep deprivation cannot be avoided, be aware of and plan for its
+effects:
+
+* Know the individual sleep loss tolerances of the personnel under your command.
+* Realize that self-observation deteriorates with sleep loss. Combat unit members may be unaware of significant impairment, so institution of countermeasures should be based on the known degree of sleep deprivation, not on whether people feel they need them.
+* Allow more time than usual for completion of all activities.
+* Assign the most sleep deprived individuals to self-paced, interesting, and/or easy jobs.
+* Critical activities may require increased numbers of personnel.
+* Effective communication will require increased effort. Always confirm orders by repeating them aloud, and as sleep loss progresses, write orders down.
+* Be aware of circadian rhythms. All sleep loss effects will be worst during the early morning hours (of the time zone to which you are adapted).
+* Physical activity may temporarily counteract sleepiness, but activities will seem more difficult than usual, and sleepiness and fatigue will be increased afterwards.
+* Sleep may be stored to some extent, thus longer than usual sleep periods (but less than ten hours) may be beneficial.
+* Early bedtimes produce better results than later rising to increase sleep period.
+
